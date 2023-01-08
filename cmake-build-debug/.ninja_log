@@ -1,0 +1,17 @@
+# ninja log v5
+12	123	6897470157221595	CMakeFiles/Duke_Fundamental_of_C_programming.dir/learn2prog/10_gdb/game.c.obj	9541673500e759f7
+21	142	6897470157261603	CMakeFiles/Duke_Fundamental_of_C_programming.dir/learn2prog/12_read_ptr2/test.c.obj	4b5ac23569791227
+0	146	6897470157321653	CMakeFiles/Duke_Fundamental_of_C_programming.dir/learn2prog/03_code2/code2.c.obj	acc291ac76b27864
+31	151	6897470157311654	CMakeFiles/Duke_Fundamental_of_C_programming.dir/learn2prog/15_tests_subseq/maxSeq.c.obj	12dadb0f0a6e4785
+15	157	6897470157381586	CMakeFiles/Duke_Fundamental_of_C_programming.dir/learn2prog/13_read_arr1/test.c.obj	b0511c172bbb6632
+10	157	6897470157381586	CMakeFiles/Duke_Fundamental_of_C_programming.dir/learn2prog/07_retirement/retirement.c.obj	c78cd4ca2d36ad0b
+8	158	6897470157421608	CMakeFiles/Duke_Fundamental_of_C_programming.dir/learn2prog/05_squares/squares.c.obj	a18c7b69042851c
+18	159	6897470157461609	CMakeFiles/Duke_Fundamental_of_C_programming.dir/learn2prog/06_rect/rectangle.c.obj	d0542fe17dfc0bf2
+6	159	6897470157471601	CMakeFiles/Duke_Fundamental_of_C_programming.dir/learn2prog/04_compile/hello.c.obj	92dcd0f830e14bf8
+24	160	6897470157491610	CMakeFiles/Duke_Fundamental_of_C_programming.dir/learn2prog/11_read_ptr1/test.c.obj	c4b0c7eaad11236a
+28	161	6897470157521592	CMakeFiles/Duke_Fundamental_of_C_programming.dir/learn2prog/14_array_max/arrayMax.c.obj	2f3d4af5c698b3a0
+4	161	6897470157521592	CMakeFiles/Duke_Fundamental_of_C_programming.dir/learn2prog/02_code1/code1.c.obj	1431f056697085ac
+151	213	6897470158177282	CMakeFiles/Duke_Fundamental_of_C_programming.dir/learn2prog/c2prj1_cards/my-test-main.c.obj	b96f5fd0755ae73d
+124	218	6897470158212929	CMakeFiles/Duke_Fundamental_of_C_programming.dir/learn2prog/15_tests_subseq/test-subseq.c.obj	e8f83c5b26258d32
+147	227	6897470158307714	CMakeFiles/Duke_Fundamental_of_C_programming.dir/learn2prog/16_subseq/maxSeq.c.obj	541e3ae1567bd619
+142	234	6897470158387706	CMakeFiles/Duke_Fundamental_of_C_programming.dir/learn2prog/c2prj1_cards/cards.c.obj	d1f8c6786a8d7769
